@@ -1,4 +1,4 @@
-# AirBnB Clone Project
+# AirBnB Clone | The Console
 
 ## Description
 This project aims to create a simplified version of AirBnB, a platform for booking accommodations, by building a command-line interface (CLI) to manage AirBnB objects. It involves creating classes for various objects like User, State, City, Place, etc., along with a storage engine for serialization/deserialization.
